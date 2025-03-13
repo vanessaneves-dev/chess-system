@@ -1,6 +1,6 @@
 package aplication;
 
-import boardgame.Board;
+
 import chess.ChessMatch;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
